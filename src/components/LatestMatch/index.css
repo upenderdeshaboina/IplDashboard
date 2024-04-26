@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.latest-match-container {
+  color: #ffffff;
+  background-color: #1e293b;
+  width: 100%;
+  display: flex;
+  margin-top: 10px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.latest-img {
+  width: 35%;
+  margin-left: 10px;
+}
+.img-team-info-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.rest-info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.paras {
+  font-size: 10px;
+}
+.rest-headings {
+  font-size: 13px;
+}

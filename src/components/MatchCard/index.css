@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.green {
+  color: #18ed66;
+}
+.red {
+  color: #e31a1a;
+}
+.logo {
+  height: 30%;
+}
+.card-match-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0f172a;
+  height: 300px;
+  width: 300px;
+  justify-content: space-evenly;
+  margin-right: 5px;
+  padding: 10px;
+  margin-left: 0px;
+  color: #ffffff;
+  border-radius: 8px;
+}
+.card-result {
+  font-size: 15px;
+  text-align: center;
+}
+.card-ele {
+  width: 30%;
+  list-style-type: none;
+  margin-bottom: 30px;
+  margin-right: 35px;
+  margin-left: 0px;
+}
